@@ -18,7 +18,8 @@ puts movies["Apocalypse_Now"]
 puts movies["Conan_the_Barbarian"]
 puts movies["Upgrade"]
 
-# Now I am going to do it in the format of the solution to practice
+# Now I am going to do it in the format of the solution given in the book
+# to practice.
 
 movies = {
   aladdin: 1992,
