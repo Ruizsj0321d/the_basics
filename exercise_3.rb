@@ -1,7 +1,7 @@
-# Write a program that uses hash to store a list of movie titles
-# with the year they came out.
-# Use puts to make the program print out the year of each movie
-# to the screen so everybody can see and be happy!
+# Write a program that uses hash to store a list
+# of movie titles with the year they came out.
+# Use puts to make the program print out the year of each
+# each to the screen so everybody can see and be happy!
 
 movies = {
   'Aladdin' => '1992',
