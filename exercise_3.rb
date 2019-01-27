@@ -17,3 +17,20 @@ puts movies["Aliens"]
 puts movies["Apocalypse_Now"]
 puts movies["Conan_the_Barbarian"]
 puts movies["Upgrade"]
+
+# Now I am going to do it in the format of the solution to practice
+
+movies = {
+  aladdin: 1992,
+  aliens: 1986,
+  apocalypse_now: 1979,
+  conan_the_barbarian: 1982,
+  upgrade: 2018
+}
+
+puts "The year my favorite movies came out:"
+puts movies[:aladdin]
+puts movies[:aliens]
+puts movies[:apocalypse_now]
+puts movies[:conan_the_barbarian]
+puts movies[:upgrade]
